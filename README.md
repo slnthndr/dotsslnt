@@ -1,4 +1,4 @@
-
+GeoDots edited for me
 > [!NOTE]
 > This will only work for Arch Linux Based distros (tested Arch, CachyOS, Endeavour). This MAY change in the future, no guarantees though.
 
